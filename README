@@ -1,4 +1,4 @@
-Patrick's Product Toolbag!
+Scripts I made to manage workflow for Content Designers/Producers
 
 Bulk Jira Ticket Creator written with Ruby Capybara (https://github.com/jnicklas/capybara)
 See Sl.rb and wow.rb
@@ -9,9 +9,3 @@ coolio.rb
 Make folders
 folderMake.rb
 
------
-To Install Ruby and the necessary gems
-Check out this
-https://docs.google.com/document/d/14bN9Mcrj-rSBlYcdfkfF5fwhgUnZC3LJzYs8kx-2JCg/edit?usp=sharing
-
-Ask pmillegan@playdom.com if you have any questions!
